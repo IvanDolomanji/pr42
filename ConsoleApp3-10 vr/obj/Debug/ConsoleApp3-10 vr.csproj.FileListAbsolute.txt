@@ -1,0 +1,7 @@
+D:\it\ConsoleApp3-10 vr\bin\Debug\ConsoleApp3-10 vr.exe.config
+D:\it\ConsoleApp3-10 vr\bin\Debug\ConsoleApp3-10 vr.exe
+D:\it\ConsoleApp3-10 vr\bin\Debug\ConsoleApp3-10 vr.pdb
+D:\it\ConsoleApp3-10 vr\obj\Debug\ConsoleApp3-10 vr.csproj.AssemblyReference.cache
+D:\it\ConsoleApp3-10 vr\obj\Debug\ConsoleApp3-10 vr.csproj.CoreCompileInputs.cache
+D:\it\ConsoleApp3-10 vr\obj\Debug\ConsoleApp3-10 vr.exe
+D:\it\ConsoleApp3-10 vr\obj\Debug\ConsoleApp3-10 vr.pdb
